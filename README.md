@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, MySQL, HTML, CSS, BootStrap
 - 🌱 I’m currently learning Spring
 - 💞️ I’m looking for a job.
-- 📫 Contact- madymaheshwari2000@gmail.com
+- 📫 Contact- yashmaheshwari0807@gmail.com
 
 <!---
 yashmaheshwa/yashmaheshwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
